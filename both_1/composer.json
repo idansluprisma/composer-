@@ -23,7 +23,9 @@
         "php": "^8.0",
         "illuminate/support": "^8.0|^9.0|^10.0",
         "intervention/image": "^2.5",
-        "laravel/pint": "^1.10"
+        "laravel/pint": "^1.10",
+        "symfony/http-kernel": "v4.4.39"
+
     },
     "require-dev": {
         "laravel/legacy-factories": "^1.0",
